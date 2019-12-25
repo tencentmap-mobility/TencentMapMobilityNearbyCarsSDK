@@ -17,7 +17,7 @@
 #ifndef TencentMapMobilityNearbyCarsVersion_h
 #define TencentMapMobilityNearbyCarsVersion_h
 
-#define TencentMapMobilityNearbyCarsVersionNumber    000900
+#define TencentMapMobilityNearbyCarsVersionNumber    010000
 
 // SDK版本
 FOUNDATION_EXTERN NSString * const TencentMapMobilityNearbyCarsSDKVersion;
